@@ -1,7 +1,7 @@
 {
   "name": "ab-sdk-miniprogram",
-  "version": "0.0.2",
-  "description": "神策微信小程序 A/B Testing SDk",
+  "version": "0.0.3",
+  "description": "神策小程序 A/B Testing SDk",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
